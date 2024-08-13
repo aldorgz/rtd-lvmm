@@ -1,5 +1,8 @@
-Template for the Read the Docs tutorial
+LVMM Tutorial
 =======================================
+
+How to access and use the HPC resourcess in LVMM.
+
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
